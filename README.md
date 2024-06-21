@@ -6,11 +6,11 @@ Hello, everyone! My name is Vince Pangilinan, and I am thrilled to introduce mys
 
 ## About Me
 
-I am a first-year student pursuing a Bachelor of Science in Information Technology (BS IT). Alongside my academic journey, I have a deep passion for billiards. The strategic nature of the game and the precision it requires fascinate me. I enjoy honing my skills and engaging in friendly competitions whenever I get the chance.
+I am a first-year student pursuing a Bachelor of Science in Information Technology (BS IT). Alongside my academic journey, I have a deep passion for computer. The strategic nature of the game and the precision it requires fascinate me. I enjoy honing my skills and engaging in friendly competitions whenever I get the chance.
 
 ## Goals
 
-During my time as a BS IT student, I aim to develop a strong foundation in information technology and gain practical skills that will prepare me for a successful career in the field. I am eager to explore various aspects of IT, such as software development, networking, database management, and cybersecurity. Additionally, I hope to find ways to merge my love for billiards with technology, whether it's through innovative applications or platforms for the billiards community.
+During my time as a BS IT student, I aim to develop a strong foundation in information technology and gain practical skills that will prepare me for a successful career in the field. I am eager to explore various aspects of IT, such as software development, networking, database management, and cybersecurity.
 
 ## Interests
 
