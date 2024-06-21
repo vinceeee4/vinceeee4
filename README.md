@@ -18,7 +18,7 @@ Apart from my academic pursuits and billiards, I have a keen interest in staying
 
 ## Connect with Me
 
-If you share a similar interest in billiards, information technology, or simply want to connect, feel free to reach out to me. You can find me on [Facebook](https://www.facebook.com/vince.pangilinan.9480). I'm always open to connecting with fellow billiards enthusiasts, discussing IT topics, or even arranging a friendly game of billiards!
+If you share a similar interest in information technology, or simply want to connect, feel free to reach out to me. You can find me on [Facebook](https://www.facebook.com/vince.pangilinan.9480). I'm always open to connecting with fellow enthusiasts, discussing IT topics, or even arranging a friendly game of billiards!
 
 Thank you for taking the time to get to know me. I look forward to connecting with you and embarking on this exciting journey as a BS IT student!
 
