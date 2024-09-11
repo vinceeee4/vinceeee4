@@ -1,6 +1,8 @@
-# Introduction
-
-## Vince Pangilinan
+<!-- Background github cover with short introduction down below -->
+<img src="https://github.com/vinceeee4/vinceeee4/blob/main/asset/Bini-cover.png" />
+<h1 align="center">
+Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30">, I'm <a href="https://github.com/vinceeee4/" target="_blank" rel="noreferrer">Vince Pangilinan</a>
+</h1>
 
 Hello, everyone! My name is Vince Pangilinan, and I am thrilled to introduce myself to you.
 
