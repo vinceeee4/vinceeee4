@@ -18,6 +18,13 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 <img src="https://komarev.com/ghpvc/?username=vinceeee4&color=blue&style=for-the-badge" alt="ThrippleK" />
 </p>
 
+<!-- Buy me a coffee link :) , you can replace the link if you already have one. Just leave this for now to support my page -->
+<div align="center">
+<a href="https://buymeacoffee.com/flexycode" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+</div>
+
+
+# Welcome
 
 Hello, everyone! My name is Vince Pangilinan, and I am thrilled to introduce myself to you.
 
