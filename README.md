@@ -23,33 +23,50 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 <a href="https://buymeacoffee.com/flexycode" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 </div>
 
+<!-- Background github GIF with 2 Super Saiyan Goku down below 
+<div align="center">
+<img width="300" height="300" src="https://media.giphy.com/media/XnbdVZIqbqV8c/giphy.gif?cid=790b761110sl6f2m0a5s0svxx3s4w44kwv5td2jfmqm3b3ss&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="margin-right: 20px;" />
+<img src="https://media.giphy.com/media/JSq8jv7SEm5GrpFebD/giphy.gif?cid=ecf05e478yj0vzn2fxy8jhqdj15injwzy4vqknzf8gd820ij&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="200">
+<img src="https://media.giphy.com/media/ocMYtK6yU1AE8/giphy.gif?cid=790b761110sl6f2m0a5s0svxx3s4w44kwv5td2jfmqm3b3ss&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="300">
+-->
 
-# Welcome
+<br>
 
-Hello, everyone! My name is Vince Pangilinan, and I am thrilled to introduce myself to you.
+<!-- End point insert background effect line of sight color red -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
-## About Me
+</div>
+
+<!-- About me, you can revise this whenever you want -->
+
+# 💫 About Me:
+
+### 🔭 Vince Pangilinan
+
+Hello, everyone! My name is Joshua D.R. Maquilan, and I'm a second year college student pursuing a Bachelor of Science in Information Technology specialization in Mobile and Web Application at National University.
+
+### 💬 About Me
 
 I am a first-year student pursuing a Bachelor of Science in Information Technology (BS IT). Alongside my academic journey, I have a deep passion for computer. The strategic nature of the game and the precision it requires fascinate me. I enjoy honing my skills and engaging in friendly competitions whenever I get the chance.
 
-## Goals
+### 👯 Goals
 
 During my time as a BS IT student, I aim to develop a strong foundation in information technology and gain practical skills that will prepare me for a successful career in the field. I am eager to explore various aspects of IT, such as software development, networking, database management, and cybersecurity.
 
-## Interests
+### 🤔 Interest
 
 Apart from my academic pursuits and billiards, I have a keen interest in staying up-to-date with the latest technological advancements. I enjoy exploring new gadgets, experimenting with software and hardware, and understanding how technology impacts our lives. I believe that technology has the potential to revolutionize industries and create positive change.
 
-## Connect with Me
+### 📫 Connect with Me
 
-If you share a similar interest in information technology, or simply want to connect, feel free to reach out to me. You can find me on [Facebook](https://www.facebook.com/vince.pangilinan.9480). I'm always open to connecting with fellow enthusiasts, discussing IT topics, or even arranging a friendly game of billiards!
+If you share a similar interest in information technology, or simply want to connect, feel free to reach out to me. You can find me on my [Facebook](https://www.facebook.com/vince.pangilinan.9480). I'm always open to connecting with fellow enthusiasts, discussing IT topics, or even arranging a friendly game of billiards!
 
 Thank you for taking the time to get to know me. I look forward to connecting with you and embarking on this exciting journey as a BS IT student!
 
+<!-- End point insert background effect line of sight color red -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
-###
-
-<h2 align="left">More About me</h2>
+<h2 align="left">💎 More About me</h2>
 
 ###
 
