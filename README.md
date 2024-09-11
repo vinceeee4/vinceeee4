@@ -11,6 +11,14 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 
 <i class="fab fa-pinterest"></i>
 
+<!-- Button Pannel for Github follers and views -->
+<p align="center">
+<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Primorion?color=236ad3&style=for-the-badge&logo=github&label=Followers"/>
+<img src="https://img.shields.io/twitter/follow/vinceeee4?logo=twitter&style=for-the-badge" <a href="https://dev.to/flexycode/ alt="ThrippleK" />
+<img src="https://komarev.com/ghpvc/?username=vinceeee4&color=blue&style=for-the-badge" alt="ThrippleK" />
+</p>
+
+
 Hello, everyone! My name is Vince Pangilinan, and I am thrilled to introduce myself to you.
 
 ## About Me
