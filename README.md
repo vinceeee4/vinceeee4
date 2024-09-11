@@ -4,6 +4,13 @@
 Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30">, I'm <a href="https://github.com/vinceeee4/" target="_blank" rel="noreferrer">Vince Pangilinan</a>
 </h1>
 
+<!-- Introduction effect style for I'm a Software Engineer -->
+<h3 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1865F7&center=true&vCenter=true&random=false&width=435&lines=I'm+a+Software+Engineer" alt="Typing SVG" /></a>
+</h3> 
+
+<i class="fab fa-pinterest"></i>
+
 Hello, everyone! My name is Vince Pangilinan, and I am thrilled to introduce myself to you.
 
 ## About Me
