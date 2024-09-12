@@ -194,3 +194,59 @@ Thank you for taking the time to get to know me. I look forward to connecting wi
 
 ###
 
+
+<!-- End point insert background effect line of sight color red -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
+<!-- GitHub Stats features such as Most Used Languages, Trophies, Contribute stats and so on..  -->
+<h2 align="center">GitHub Stats     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="40">&nbsp;</h2> 
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinceeee4&show_icons=true&locale=en&layout=compact&theme=tokyonight" align = "center"/>
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinceeee4&count_private=true&show_icons=true&theme=tokyonight" align = "center"/>
+</p>
+
+<br>
+
+<!-- GitHub Graph  -->
+<a href="https://github.com/Primorion"><img src="https://github-readme-activity-graph.vercel.app/graph?username=vinceeee4&bg_color=0C1014&color=4C8ED9&line=4C8ED9&point=FFFFFF&hide_border=true&border=3B495FFF" /></a>
+
+<!-- GitHub trophy -->
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=vinceeee4&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4) 
+
+<br>
+<!-- End point insert background effect line of sight color red -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
+<br>
+
+<div align="center">
+  
+<!-- Random Quote -->
+### ✍️ Random Dev Quote 
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+###
+
+<!-- Introduction Pannel button link, it will redirect to the top -->
+#### [Back to Table of Content](#introduction)
+---
+<!-- Intro point insert background text style line "Thanks for visiting enjoy your day! -->
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com/?lines=Thanks+For+Visiting+Enjoy+Your+Day+~!;" alt="mystreak"/>
+</p>
+<!-- Link for Discord Channel and  -->
+
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/Primorion#0246) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flexycode) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@flexycode.dev) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/flexyledger)
+
+[![](https://visitcount.itsvg.in/api?id=Primorion&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com/?lines=Come+Back+Again+next+time+~!;" alt="mystreak"/>
+</p>
+<!-- End point insert background text style line "Come back again next time! -->
+
