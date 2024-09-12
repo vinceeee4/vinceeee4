@@ -23,12 +23,12 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 <a href="https://buymeacoffee.com/flexycode" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 </div>
 
-<!-- Background github GIF with 2 Super Saiyan Goku down below 
+<!-- Background github GIF with Valorant down below -->
 <div align="center">
-<img width="300" height="300" src="https://media.giphy.com/media/XnbdVZIqbqV8c/giphy.gif?cid=790b761110sl6f2m0a5s0svxx3s4w44kwv5td2jfmqm3b3ss&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="margin-right: 20px;" />
-<img src="https://media.giphy.com/media/JSq8jv7SEm5GrpFebD/giphy.gif?cid=ecf05e478yj0vzn2fxy8jhqdj15injwzy4vqknzf8gd820ij&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="200">
-<img src="https://media.giphy.com/media/ocMYtK6yU1AE8/giphy.gif?cid=790b761110sl6f2m0a5s0svxx3s4w44kwv5td2jfmqm3b3ss&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="300">
--->
+<img width="300" height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2dpZWx2N295Z3o4YnZyemg2cXhzcmVuYXgxMDQ2ZWpoY2Y3djRkcyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/1qSOK4FVwrohestMfG/giphy.gif" style="margin-right: 20px;" />
+<img src="https://media.giphy.com/media/T6TF3JZ21xdHHFMx5x/giphy.gif?cid=790b76117gielv7oygz8bvrzh6qxsrenax1046ejhcf7v4ds&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="200">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2dpZWx2N295Z3o4YnZyemg2cXhzcmVuYXgxMDQ2ZWpoY2Y3djRkcyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/e2HHUuc4x2VaHIhjlf/giphy.gif" width="300">
+
 
 <br>
 
