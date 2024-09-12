@@ -250,3 +250,5 @@ Thank you for taking the time to get to know me. I look forward to connecting wi
 </p>
 <!-- End point insert background text style line "Come back again next time! -->
 
+<!-- Background github cover with short introduction down below -->
+<img src="https://github.com/vinceeee4/vinceeee4/blob/main/asset/BINI COLLET.png" />
