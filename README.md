@@ -43,7 +43,7 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 
 ### 🔭 Vince Pangilinan
 
-Hello, everyone! My name is Joshua D.R. Maquilan, and I'm a second year college student pursuing a Bachelor of Science in Information Technology specialization in Mobile and Web Application at National University.
+Hello, everyone! My name is Vince Erol P. Pangilinan, and I'm a second year college student pursuing a Bachelor of Science in Information Technology specialization in Mobile and Web Application at National University.
 
 ### 💬 About Me
 
